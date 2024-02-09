@@ -1,0 +1,2702 @@
+Feb 01, 2024 11:35:20 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 11:35:20 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 11:35:20 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 11:35:24 AM capstone.CarQueue addCar
+INFO: Car added to the queue: erer
+Feb 01, 2024 11:35:25 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 11:35:25 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 11:35:25 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 11:35:25 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 11:35:25 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 11:35:25 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 11:35:27 AM capstone.CarQueue addCar
+INFO: Car added to the queue: ewqr
+Feb 01, 2024 11:35:30 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 11:35:30 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 11:35:30 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 11:35:30 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 11:35:30 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 11:35:30 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 11:35:35 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 11:35:35 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 11:35:35 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 11:35:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 11:35:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: erer
+Feb 01, 2024 11:35:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: ewqr
+Feb 01, 2024 11:35:40 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 11:35:40 AM capstone.CarQueue removeCar
+INFO: Car removed: erer
+Feb 01, 2024 11:35:40 AM capstone.CarQueue removeCar
+INFO: Car removed: ewqr
+Feb 01, 2024 11:39:48 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 11:39:48 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 11:39:48 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 11:39:53 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 11:39:53 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 11:39:53 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 11:39:53 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 11:39:53 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 11:39:53 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 11:39:58 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 11:39:58 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 11:39:58 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 11:39:58 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 11:39:58 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 11:39:58 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 11:40:03 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 11:40:03 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 11:40:03 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 11:40:03 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 11:40:08 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 11:41:05 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 11:41:05 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 11:41:05 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 11:41:08 AM capstone.CarQueue addCar
+INFO: Car added to the queue: 3434
+Feb 01, 2024 11:41:10 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 11:41:10 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 11:41:10 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 11:41:10 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 11:41:10 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 11:41:10 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 11:41:12 AM capstone.CarQueue addCar
+INFO: Car added to the queue: 333
+Feb 01, 2024 11:41:15 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 11:41:15 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 11:41:15 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 11:41:15 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 11:41:15 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 11:41:15 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 11:41:15 AM capstone.CarQueue addCar
+INFO: Car added to the queue: 1234
+Feb 01, 2024 11:41:20 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 11:41:20 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 11:41:20 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 11:41:20 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 11:41:20 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: 3434
+Feb 01, 2024 11:41:20 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: 333
+Feb 01, 2024 11:41:23 AM capstone.CarQueue addCar
+INFO: Car added to the queue: 223
+Feb 01, 2024 11:41:25 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 11:41:25 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: 1234
+Feb 01, 2024 11:41:25 AM capstone.CarQueue removeCar
+INFO: Car removed: 3434
+Feb 01, 2024 11:41:25 AM capstone.CarQueue removeCar
+INFO: Car removed: 333
+Feb 01, 2024 11:41:25 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: 223
+Feb 01, 2024 11:41:30 AM capstone.CarQueue removeCar
+INFO: Car removed: 1234
+Feb 01, 2024 11:41:30 AM capstone.CarQueue removeCar
+INFO: Car removed: 223
+Feb 01, 2024 12:01:44 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 12:01:44 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 12:01:44 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 12:01:49 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 12:01:49 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 12:01:49 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 12:01:49 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 12:01:49 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 12:01:49 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 12:01:54 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 12:01:54 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 12:01:54 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 12:01:54 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 12:01:54 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 12:01:54 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 12:01:59 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 12:01:59 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 12:01:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 12:01:59 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 12:02:04 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 12:06:23 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 12:06:23 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 12:06:23 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 12:06:28 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 12:06:28 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 12:06:28 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 12:06:28 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 12:06:28 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 12:06:28 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 12:06:33 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 12:06:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 12:06:33 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 12:06:33 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 12:06:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 12:06:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 12:06:38 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 12:06:38 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 12:06:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 12:06:38 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 12:06:43 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 12:11:57 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 12:11:57 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 12:11:57 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 12:11:59 PM capstone.CarQueue addCar
+INFO: Car added to the queue: reg
+Feb 01, 2024 12:12:00 PM capstone.CarQueue addCar
+INFO: Car added to the queue: erge
+Feb 01, 2024 12:12:02 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 2343
+Feb 01, 2024 12:12:02 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 12:12:02 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 12:12:02 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 12:12:02 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 12:12:02 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 12:12:02 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 12:12:07 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 12:12:07 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 12:12:07 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 12:12:07 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 12:12:07 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 12:12:07 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 10:23:39 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 10:23:39 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 10:23:39 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 10:23:44 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 10:23:44 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 10:23:44 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 10:23:44 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 10:23:44 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 10:23:44 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 10:23:49 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 10:23:49 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 10:23:49 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 10:23:49 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 10:23:49 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 10:23:49 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 10:23:54 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 10:23:54 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 10:23:54 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 10:23:54 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 10:23:59 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 10:24:03 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: erwe
+Feb 01, 2024 10:24:03 PM capstone.CarQueue addCar
+INFO: Car added to the queue: erwe
+Feb 01, 2024 10:24:08 PM capstone.CarQueue removeCar
+INFO: Car removed: erwe
+Feb 01, 2024 10:24:17 PM capstone.CarQueue addCar
+INFO: Car added to the queue: ewrw
+Feb 01, 2024 10:24:17 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: ewrw
+Feb 01, 2024 10:24:19 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 232
+Feb 01, 2024 10:24:22 PM capstone.CarQueue removeCar
+INFO: Car removed: ewrw
+Feb 01, 2024 10:24:22 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 232
+Feb 01, 2024 10:24:22 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 2323
+Feb 01, 2024 10:24:24 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 34343
+Feb 01, 2024 10:24:26 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 324234
+Feb 01, 2024 10:24:27 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 23424
+Feb 01, 2024 10:24:27 PM capstone.CarQueue removeCar
+INFO: Car removed: 232
+Feb 01, 2024 10:24:27 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 2323
+Feb 01, 2024 10:24:32 PM capstone.CarQueue removeCar
+INFO: Car removed: 2323
+Feb 01, 2024 10:24:32 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 34343
+Feb 01, 2024 10:24:37 PM capstone.CarQueue removeCar
+INFO: Car removed: 34343
+Feb 01, 2024 10:24:37 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 324234
+Feb 01, 2024 10:24:42 PM capstone.CarQueue removeCar
+INFO: Car removed: 324234
+Feb 01, 2024 10:24:42 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 23424
+Feb 01, 2024 10:24:47 PM capstone.CarQueue removeCar
+INFO: Car removed: 23424
+Feb 01, 2024 10:25:04 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 3456
+Feb 01, 2024 10:25:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 3456
+Feb 01, 2024 10:25:09 PM capstone.CarQueue removeCar
+INFO: Car removed: 3456
+Feb 01, 2024 10:25:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: hhhhh
+Feb 01, 2024 10:25:33 PM capstone.CarQueue addCar
+INFO: Car added to the queue: hhhhh
+Feb 01, 2024 10:25:37 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 5464
+Feb 01, 2024 10:25:38 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 75675
+Feb 01, 2024 10:25:38 PM capstone.CarQueue removeCar
+INFO: Car removed: hhhhh
+Feb 01, 2024 10:25:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 5464
+Feb 01, 2024 10:25:39 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 56474
+Feb 01, 2024 10:25:40 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 654745
+Feb 01, 2024 10:25:41 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 474
+Feb 01, 2024 10:25:42 PM capstone.CarQueue addCar
+INFO: Car added to the queue: tt
+Feb 01, 2024 10:25:43 PM capstone.CarQueue addCar
+INFO: Car added to the queue: tt
+Feb 01, 2024 10:25:43 PM capstone.CarQueue removeCar
+INFO: Car removed: 5464
+Feb 01, 2024 10:25:43 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 75675
+Feb 01, 2024 10:25:44 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 565
+Feb 01, 2024 10:25:45 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 7
+Feb 01, 2024 10:25:48 PM capstone.CarQueue removeCar
+INFO: Car removed: 75675
+Feb 01, 2024 10:25:48 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 56474
+Feb 01, 2024 10:25:53 PM capstone.CarQueue removeCar
+INFO: Car removed: 56474
+Feb 01, 2024 10:25:53 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 654745
+Feb 01, 2024 10:25:58 PM capstone.CarQueue removeCar
+INFO: Car removed: 654745
+Feb 01, 2024 10:25:58 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 474
+Feb 01, 2024 10:26:03 PM capstone.CarQueue removeCar
+INFO: Car removed: 474
+Feb 01, 2024 10:26:03 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: tt
+Feb 01, 2024 10:26:08 PM capstone.CarQueue removeCar
+INFO: Car removed: tt
+Feb 01, 2024 10:26:08 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: tt
+Feb 01, 2024 10:26:13 PM capstone.CarQueue removeCar
+INFO: Car removed: tt
+Feb 01, 2024 10:26:13 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 565
+Feb 01, 2024 10:26:18 PM capstone.CarQueue removeCar
+INFO: Car removed: 565
+Feb 01, 2024 10:26:18 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 7
+Feb 01, 2024 10:26:23 PM capstone.CarQueue removeCar
+INFO: Car removed: 7
+Feb 01, 2024 10:26:46 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 231
+Feb 01, 2024 10:26:46 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 231
+Feb 01, 2024 10:26:51 PM capstone.CarQueue removeCar
+INFO: Car removed: 231
+Feb 01, 2024 10:27:58 PM capstone.CarQueue addCar
+INFO: Car added to the queue: Car1
+Feb 01, 2024 10:27:58 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car1
+Feb 01, 2024 10:28:00 PM capstone.CarQueue addCar
+INFO: Car added to the queue: Car2
+Feb 01, 2024 10:28:03 PM capstone.CarQueue removeCar
+INFO: Car removed: Car1
+Feb 01, 2024 10:28:03 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car2
+Feb 01, 2024 10:28:07 PM capstone.CarQueue addCar
+INFO: Car added to the queue: efqef
+Feb 01, 2024 10:28:08 PM capstone.CarQueue removeCar
+INFO: Car removed: Car2
+Feb 01, 2024 10:28:08 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: efqef
+Feb 01, 2024 10:28:13 PM capstone.CarQueue removeCar
+INFO: Car removed: efqef
+Feb 01, 2024 10:28:14 PM capstone.CarQueue addCar
+INFO: Car added to the queue: eqfreqf
+Feb 01, 2024 10:28:14 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: eqfreqf
+Feb 01, 2024 10:28:15 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wefew
+Feb 01, 2024 10:28:17 PM capstone.CarQueue addCar
+INFO: Car added to the queue: w
+Feb 01, 2024 10:28:18 PM capstone.CarQueue addCar
+INFO: Car added to the queue: qwreq
+Feb 01, 2024 10:28:19 PM capstone.CarQueue removeCar
+INFO: Car removed: eqfreqf
+Feb 01, 2024 10:28:19 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wefew
+Feb 01, 2024 10:28:20 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wefrwer
+Feb 01, 2024 10:28:21 PM capstone.CarQueue addCar
+INFO: Car added to the queue: weqrwe
+Feb 01, 2024 10:28:22 PM capstone.CarQueue addCar
+INFO: Car added to the queue: qwerw
+Feb 01, 2024 10:28:24 PM capstone.CarQueue removeCar
+INFO: Car removed: wefew
+Feb 01, 2024 10:28:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: w
+Feb 01, 2024 10:28:24 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 23423
+Feb 01, 2024 10:28:25 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 32423
+Feb 01, 2024 10:28:26 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 234
+Feb 01, 2024 10:28:29 PM capstone.CarQueue addCar
+INFO: Car added to the queue: Car1
+Feb 01, 2024 10:28:29 PM capstone.CarQueue removeCar
+INFO: Car removed: w
+Feb 01, 2024 10:28:29 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: qwreq
+Feb 01, 2024 10:28:34 PM capstone.CarQueue removeCar
+INFO: Car removed: qwreq
+Feb 01, 2024 10:28:34 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wefrwer
+Feb 01, 2024 10:28:39 PM capstone.CarQueue removeCar
+INFO: Car removed: wefrwer
+Feb 01, 2024 10:28:39 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: weqrwe
+Feb 01, 2024 10:28:44 PM capstone.CarQueue removeCar
+INFO: Car removed: weqrwe
+Feb 01, 2024 10:28:44 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: qwerw
+Feb 01, 2024 10:28:49 PM capstone.CarQueue removeCar
+INFO: Car removed: qwerw
+Feb 01, 2024 10:28:49 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 23423
+Feb 01, 2024 10:28:54 PM capstone.CarQueue removeCar
+INFO: Car removed: 23423
+Feb 01, 2024 10:28:54 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 32423
+Feb 01, 2024 10:28:59 PM capstone.CarQueue removeCar
+INFO: Car removed: 32423
+Feb 01, 2024 10:28:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 234
+Feb 01, 2024 10:29:04 PM capstone.CarQueue removeCar
+INFO: Car removed: 234
+Feb 01, 2024 10:29:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car1
+Feb 01, 2024 10:29:09 PM capstone.CarQueue removeCar
+INFO: Car removed: Car1
+Feb 01, 2024 10:29:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 10:29:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 10:29:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 10:29:25 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 10:29:25 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 10:29:25 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 10:29:25 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 10:29:25 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 10:29:25 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 10:29:30 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 10:29:30 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 10:29:30 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 10:29:30 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 10:29:30 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 10:29:30 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 10:29:30 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wer
+Feb 01, 2024 10:29:31 PM capstone.CarQueue addCar
+INFO: Car added to the queue: werw
+Feb 01, 2024 10:29:33 PM capstone.CarQueue addCar
+INFO: Car added to the queue: sdfsdf
+Feb 01, 2024 10:29:34 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 4r4
+Feb 01, 2024 10:29:35 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 10:29:35 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 10:29:35 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 10:29:35 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 10:29:35 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: werw
+Feb 01, 2024 10:29:35 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wer
+Feb 01, 2024 10:29:36 PM capstone.CarQueue addCar
+INFO: Car added to the queue: werwe
+Feb 01, 2024 10:29:37 PM capstone.CarQueue addCar
+INFO: Car added to the queue: adf
+Feb 01, 2024 10:29:40 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 10:29:40 PM capstone.CarQueue removeCar
+INFO: Car removed: wer
+Feb 01, 2024 10:29:40 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: sdfsdf
+Feb 01, 2024 10:29:40 PM capstone.CarQueue removeCar
+INFO: Car removed: werw
+Feb 01, 2024 10:29:40 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 4r4
+Feb 01, 2024 10:29:40 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: werwe
+Feb 01, 2024 10:29:40 PM capstone.CarQueue addCar
+INFO: Car added to the queue: werwer
+Feb 01, 2024 10:29:43 PM capstone.CarQueue addCar
+INFO: Car added to the queue: eryttry
+Feb 01, 2024 10:29:44 PM capstone.CarQueue addCar
+INFO: Car added to the queue: eqtqet
+Feb 01, 2024 10:29:45 PM capstone.CarQueue removeCar
+INFO: Car removed: sdfsdf
+Feb 01, 2024 10:29:45 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: adf
+Feb 01, 2024 10:29:45 PM capstone.CarQueue removeCar
+INFO: Car removed: 4r4
+Feb 01, 2024 10:29:45 PM capstone.CarQueue removeCar
+INFO: Car removed: werwe
+Feb 01, 2024 10:29:45 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: werwer
+Feb 01, 2024 10:29:45 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: eryttry
+Feb 01, 2024 10:29:50 PM capstone.CarQueue removeCar
+INFO: Car removed: adf
+Feb 01, 2024 10:29:50 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: eqtqet
+Feb 01, 2024 10:29:50 PM capstone.CarQueue removeCar
+INFO: Car removed: eryttry
+Feb 01, 2024 10:29:50 PM capstone.CarQueue removeCar
+INFO: Car removed: werwer
+Feb 01, 2024 10:29:55 PM capstone.CarQueue removeCar
+INFO: Car removed: eqtqet
+Feb 01, 2024 10:32:41 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 10:32:41 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 10:32:41 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 10:32:45 PM capstone.CarQueue addCar
+INFO: Car added to the queue: fsasdf
+Feb 01, 2024 10:32:46 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 10:32:46 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 10:32:46 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 10:32:46 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 10:32:46 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 10:32:46 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 10:32:47 PM capstone.CarQueue addCar
+INFO: Car added to the queue: rewfd
+Feb 01, 2024 10:32:48 PM capstone.CarQueue addCar
+INFO: Car added to the queue: sdafds
+Feb 01, 2024 10:32:49 PM capstone.CarQueue addCar
+INFO: Car added to the queue: sdfsd
+Feb 01, 2024 10:32:50 PM capstone.CarQueue addCar
+INFO: Car added to the queue: sdfwe
+Feb 01, 2024 10:32:51 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 10:32:51 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 10:32:51 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 10:32:51 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 10:32:51 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 10:32:51 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 10:32:52 PM capstone.CarQueue addCar
+INFO: Car added to the queue: werfw
+Feb 01, 2024 10:32:54 PM capstone.CarQueue addCar
+INFO: Car added to the queue: dsfff
+Feb 01, 2024 10:32:56 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 10:32:56 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 10:32:56 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 10:32:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 10:32:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: fsasdf
+Feb 01, 2024 10:32:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: rewfd
+Feb 01, 2024 10:32:56 PM capstone.CarQueue addCar
+INFO: Car added to the queue: ddd
+Feb 01, 2024 10:32:58 PM capstone.CarQueue addCar
+INFO: Car added to the queue: sss
+Feb 01, 2024 10:33:00 PM capstone.CarQueue addCar
+INFO: Car added to the queue: eee
+Feb 01, 2024 10:33:01 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 10:33:01 PM capstone.CarQueue removeCar
+INFO: Car removed: rewfd
+Feb 01, 2024 10:33:01 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: sdafds
+Feb 01, 2024 10:33:01 PM capstone.CarQueue removeCar
+INFO: Car removed: fsasdf
+Feb 01, 2024 10:33:01 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: sdfsd
+Feb 01, 2024 10:33:01 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: sdfwe
+Feb 01, 2024 10:33:01 PM capstone.CarQueue addCar
+INFO: Car added to the queue: qqq
+Feb 01, 2024 10:33:03 PM capstone.CarQueue addCar
+INFO: Car added to the queue: zzz
+Feb 01, 2024 10:33:06 PM capstone.CarQueue removeCar
+INFO: Car removed: sdfsd
+Feb 01, 2024 10:33:06 PM capstone.CarQueue removeCar
+INFO: Car removed: sdafds
+Feb 01, 2024 10:33:06 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: werfw
+Feb 01, 2024 10:33:06 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: dsfff
+Feb 01, 2024 10:33:06 PM capstone.CarQueue removeCar
+INFO: Car removed: sdfwe
+Feb 01, 2024 10:33:06 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: ddd
+Feb 01, 2024 10:33:11 PM capstone.CarQueue removeCar
+INFO: Car removed: werfw
+Feb 01, 2024 10:33:11 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: sss
+Feb 01, 2024 10:33:11 PM capstone.CarQueue removeCar
+INFO: Car removed: dsfff
+Feb 01, 2024 10:33:11 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: eee
+Feb 01, 2024 10:33:11 PM capstone.CarQueue removeCar
+INFO: Car removed: ddd
+Feb 01, 2024 10:33:11 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: qqq
+Feb 01, 2024 10:33:16 PM capstone.CarQueue removeCar
+INFO: Car removed: sss
+Feb 01, 2024 10:33:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: zzz
+Feb 01, 2024 10:33:16 PM capstone.CarQueue removeCar
+INFO: Car removed: eee
+Feb 01, 2024 10:33:16 PM capstone.CarQueue removeCar
+INFO: Car removed: qqq
+Feb 01, 2024 10:33:21 PM capstone.CarQueue removeCar
+INFO: Car removed: zzz
+Feb 01, 2024 10:33:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: qdwq
+Feb 01, 2024 10:33:24 PM capstone.CarQueue addCar
+INFO: Car added to the queue: qdwq
+Feb 01, 2024 10:33:26 PM capstone.CarQueue addCar
+INFO: Car added to the queue: qqq
+Feb 01, 2024 10:33:28 PM capstone.CarQueue addCar
+INFO: Car added to the queue: www
+Feb 01, 2024 10:33:29 PM capstone.CarQueue removeCar
+INFO: Car removed: qdwq
+Feb 01, 2024 10:33:29 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: qqq
+Feb 01, 2024 10:33:30 PM capstone.CarQueue addCar
+INFO: Car added to the queue: eeee
+Feb 01, 2024 10:33:32 PM capstone.CarQueue addCar
+INFO: Car added to the queue: erere
+Feb 01, 2024 10:33:33 PM capstone.CarQueue addCar
+INFO: Car added to the queue: ewqwq
+Feb 01, 2024 10:33:34 PM capstone.CarQueue removeCar
+INFO: Car removed: qqq
+Feb 01, 2024 10:33:34 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: www
+Feb 01, 2024 10:33:35 PM capstone.CarQueue addCar
+INFO: Car added to the queue: fvfvf
+Feb 01, 2024 10:33:39 PM capstone.CarQueue removeCar
+INFO: Car removed: www
+Feb 01, 2024 10:33:39 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: eeee
+Feb 01, 2024 10:33:44 PM capstone.CarQueue removeCar
+INFO: Car removed: eeee
+Feb 01, 2024 10:33:44 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: erere
+Feb 01, 2024 10:33:49 PM capstone.CarQueue removeCar
+INFO: Car removed: erere
+Feb 01, 2024 10:33:49 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: ewqwq
+Feb 01, 2024 10:33:54 PM capstone.CarQueue removeCar
+INFO: Car removed: ewqwq
+Feb 01, 2024 10:33:54 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: fvfvf
+Feb 01, 2024 10:33:59 PM capstone.CarQueue removeCar
+INFO: Car removed: fvfvf
+Feb 01, 2024 10:43:32 PM capstone.CarQueue addCar
+INFO: Car added to the queue: fwf
+Feb 01, 2024 10:43:32 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: fwf
+Feb 01, 2024 10:43:37 PM capstone.CarQueue removeCar
+INFO: Car removed: fwf
+Feb 01, 2024 10:43:44 PM capstone.CarQueue addCar
+INFO: Car added to the queue: etget
+Feb 01, 2024 10:43:44 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: etget
+Feb 01, 2024 10:43:49 PM capstone.CarQueue removeCar
+INFO: Car removed: etget
+Feb 01, 2024 10:43:53 PM capstone.CarQueue addCar
+INFO: Car added to the queue: fge
+Feb 01, 2024 10:43:53 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: fge
+Feb 01, 2024 10:43:55 PM capstone.CarQueue addCar
+INFO: Car added to the queue: dfge
+Feb 01, 2024 10:43:58 PM capstone.CarQueue removeCar
+INFO: Car removed: fge
+Feb 01, 2024 10:43:58 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: dfge
+Feb 01, 2024 10:44:03 PM capstone.CarQueue removeCar
+INFO: Car removed: dfge
+Feb 01, 2024 10:55:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 10:55:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 10:55:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 10:56:04 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 10:56:04 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 10:56:04 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 10:56:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 10:56:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 10:56:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 10:56:09 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 10:56:09 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 10:56:09 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 10:56:09 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 10:56:09 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 10:56:09 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 10:56:14 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 10:56:14 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 10:56:14 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 10:56:14 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 10:56:19 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 10:56:23 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wewe
+Feb 01, 2024 10:56:23 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wewe
+Feb 01, 2024 10:56:26 PM capstone.CarQueue addCar
+INFO: Car added to the queue: qwe
+Feb 01, 2024 10:56:26 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: qwe
+Feb 01, 2024 10:56:27 PM capstone.CarQueue addCar
+INFO: Car added to the queue: qweqw
+Feb 01, 2024 10:56:28 PM capstone.CarQueue removeCar
+INFO: Car removed: wewe
+Feb 01, 2024 10:56:28 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: qweqw
+Feb 01, 2024 10:56:29 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 23e12
+Feb 01, 2024 10:56:30 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wef
+Feb 01, 2024 10:56:31 PM capstone.CarQueue removeCar
+INFO: Car removed: qwe
+Feb 01, 2024 10:56:31 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 23e12
+Feb 01, 2024 10:56:32 PM capstone.CarQueue addCar
+INFO: Car added to the queue: w
+Feb 01, 2024 10:56:33 PM capstone.CarQueue removeCar
+INFO: Car removed: qweqw
+Feb 01, 2024 10:56:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wef
+Feb 01, 2024 10:56:36 PM capstone.CarQueue removeCar
+INFO: Car removed: 23e12
+Feb 01, 2024 10:56:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: w
+Feb 01, 2024 10:56:38 PM capstone.CarQueue removeCar
+INFO: Car removed: wef
+Feb 01, 2024 10:56:39 PM capstone.CarQueue addCar
+INFO: Car added to the queue: w
+Feb 01, 2024 10:56:39 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: w
+Feb 01, 2024 10:56:40 PM capstone.CarQueue addCar
+INFO: Car added to the queue: e
+Feb 01, 2024 10:56:41 PM capstone.CarQueue removeCar
+INFO: Car removed: w
+Feb 01, 2024 10:56:41 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: e
+Feb 01, 2024 10:56:44 PM capstone.CarQueue removeCar
+INFO: Car removed: w
+Feb 01, 2024 10:56:46 PM capstone.CarQueue removeCar
+INFO: Car removed: e
+Feb 01, 2024 11:02:28 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 11:02:28 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 11:02:28 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 11:02:33 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 11:02:33 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 11:02:33 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 11:02:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 11:02:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 11:02:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 11:02:38 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 11:02:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 11:02:38 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 11:02:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 11:02:38 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 11:02:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 11:02:43 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 11:02:43 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 11:02:43 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 11:02:43 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 11:02:48 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 11:04:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 11:04:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 11:04:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 11:04:29 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 11:04:29 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 11:04:29 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 11:04:29 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 11:04:29 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 11:04:29 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 11:04:34 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 11:04:34 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 11:04:34 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 11:04:34 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 11:04:34 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 11:04:34 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 11:04:43 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 11:04:43 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 11:04:43 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 11:04:48 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 11:04:48 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 11:04:48 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 11:04:48 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 11:04:48 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 11:04:48 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 11:04:53 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 11:04:53 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 11:04:53 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 11:04:53 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 11:04:53 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 11:04:53 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 11:04:58 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 11:04:58 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 11:04:58 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 11:04:58 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 11:05:03 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 11:07:03 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 11:07:03 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 11:07:03 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 11:07:08 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 11:07:08 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 11:07:08 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 11:07:08 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 11:07:08 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 11:07:08 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 11:07:13 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 11:07:13 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 11:07:13 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 11:07:13 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 11:07:13 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 11:07:13 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 11:07:18 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 11:07:18 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 11:07:18 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 11:07:18 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 11:07:23 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 11:08:10 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 23rqq
+Feb 01, 2024 11:08:10 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 23rqq
+Feb 01, 2024 11:08:11 PM capstone.CarQueue addCar
+INFO: Car added to the queue: fwe
+Feb 01, 2024 11:08:11 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: fwe
+Feb 01, 2024 11:08:15 PM capstone.CarQueue removeCar
+INFO: Car removed: 23rqq
+Feb 01, 2024 11:08:16 PM capstone.CarQueue removeCar
+INFO: Car removed: fwe
+Feb 01, 2024 11:08:18 PM capstone.CarQueue addCar
+INFO: Car added to the queue: ewrwer
+Feb 01, 2024 11:08:18 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: ewrwer
+Feb 01, 2024 11:08:20 PM capstone.CarQueue addCar
+INFO: Car added to the queue: werwe
+Feb 01, 2024 11:08:22 PM capstone.CarQueue addCar
+INFO: Car added to the queue: werw
+Feb 01, 2024 11:08:23 PM capstone.CarQueue addCar
+INFO: Car added to the queue: t545
+Feb 01, 2024 11:08:23 PM capstone.CarQueue removeCar
+INFO: Car removed: ewrwer
+Feb 01, 2024 11:08:23 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: werwe
+Feb 01, 2024 11:08:28 PM capstone.CarQueue removeCar
+INFO: Car removed: werwe
+Feb 01, 2024 11:08:28 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: werw
+Feb 01, 2024 11:08:33 PM capstone.CarQueue removeCar
+INFO: Car removed: werw
+Feb 01, 2024 11:08:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: t545
+Feb 01, 2024 11:08:38 PM capstone.CarQueue removeCar
+INFO: Car removed: t545
+Feb 01, 2024 11:08:41 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: t2435
+Feb 01, 2024 11:08:41 PM capstone.CarQueue addCar
+INFO: Car added to the queue: t2435
+Feb 01, 2024 11:08:43 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 453
+Feb 01, 2024 11:08:46 PM capstone.CarQueue removeCar
+INFO: Car removed: t2435
+Feb 01, 2024 11:08:46 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 453
+Feb 01, 2024 11:08:49 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 5345
+Feb 01, 2024 11:08:51 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 454
+Feb 01, 2024 11:08:52 PM capstone.CarQueue removeCar
+INFO: Car removed: 453
+Feb 01, 2024 11:08:52 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 5345
+Feb 01, 2024 11:08:52 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 454
+Feb 01, 2024 11:08:53 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 454
+Feb 01, 2024 11:08:57 PM capstone.CarQueue removeCar
+INFO: Car removed: 5345
+Feb 01, 2024 11:08:57 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 454
+Feb 01, 2024 11:09:02 PM capstone.CarQueue removeCar
+INFO: Car removed: 454
+Feb 01, 2024 11:09:02 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 454
+Feb 01, 2024 11:09:07 PM capstone.CarQueue removeCar
+INFO: Car removed: 454
+Feb 01, 2024 11:09:07 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 454
+Feb 01, 2024 11:09:12 PM capstone.CarQueue removeCar
+INFO: Car removed: 454
+Feb 01, 2024 11:14:23 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 11:14:23 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 11:14:23 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 11:14:28 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 11:14:28 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 11:14:28 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 11:14:28 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 11:14:28 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 11:14:28 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 11:14:33 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 11:14:33 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 11:14:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 11:14:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 11:14:33 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 11:14:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 11:14:38 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 11:14:38 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 11:14:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 11:14:38 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 11:14:43 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 11:14:52 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: rfgr
+Feb 01, 2024 11:14:52 PM capstone.CarQueue addCar
+INFO: Car added to the queue: rfgr
+Feb 01, 2024 11:14:57 PM capstone.CarQueue removeCar
+INFO: Car removed: rfgr
+Feb 01, 2024 11:15:15 PM capstone.CarQueue addCar
+INFO: Car added to the queue: sf
+Feb 01, 2024 11:15:15 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: sf
+Feb 01, 2024 11:15:20 PM capstone.CarQueue removeCar
+INFO: Car removed: sf
+Feb 01, 2024 11:26:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 11:26:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 11:26:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 11:26:41 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 11:26:41 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 11:26:41 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 11:26:41 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 11:26:41 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 11:26:41 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 11:26:44 PM capstone.CarQueue addCar
+INFO: Car added to the queue: erwqe
+Feb 01, 2024 11:26:45 PM capstone.CarQueue addCar
+INFO: Car added to the queue: sdfg
+Feb 01, 2024 11:26:46 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 11:26:46 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 11:26:46 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 11:26:46 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 11:26:46 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 11:26:46 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 11:26:47 PM capstone.CarQueue addCar
+INFO: Car added to the queue: ertqewtr
+Feb 01, 2024 11:26:49 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wrwqe
+Feb 01, 2024 11:26:51 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 11:26:51 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 11:26:51 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 11:26:51 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 11:26:51 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: erwqe
+Feb 01, 2024 11:26:51 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: sdfg
+Feb 01, 2024 11:26:56 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 11:26:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: ertqewtr
+Feb 01, 2024 11:26:56 PM capstone.CarQueue removeCar
+INFO: Car removed: sdfg
+Feb 01, 2024 11:26:56 PM capstone.CarQueue removeCar
+INFO: Car removed: erwqe
+Feb 01, 2024 11:26:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wrwqe
+Feb 01, 2024 11:27:01 PM capstone.CarQueue removeCar
+INFO: Car removed: ertqewtr
+Feb 01, 2024 11:27:01 PM capstone.CarQueue removeCar
+INFO: Car removed: wrwqe
+Feb 01, 2024 11:28:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 11:28:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 11:28:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 11:28:38 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 11:28:38 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 11:28:38 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 11:28:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 11:28:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 11:28:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 11:28:43 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 11:28:43 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 11:28:43 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 11:28:43 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 11:28:43 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 11:28:43 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 11:28:48 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 11:28:48 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 11:28:48 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 11:28:48 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 11:28:53 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 11:28:54 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wertrew
+Feb 01, 2024 11:28:54 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wertrew
+Feb 01, 2024 11:28:55 PM capstone.CarQueue addCar
+INFO: Car added to the queue: ere
+Feb 01, 2024 11:28:55 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: ere
+Feb 01, 2024 11:28:56 PM capstone.CarQueue addCar
+INFO: Car added to the queue: ere
+Feb 01, 2024 11:28:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: ere
+Feb 01, 2024 11:28:58 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 3145
+Feb 01, 2024 11:28:59 PM capstone.CarQueue removeCar
+INFO: Car removed: wertrew
+Feb 01, 2024 11:28:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 3145
+Feb 01, 2024 11:29:00 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 34543
+Feb 01, 2024 11:29:00 PM capstone.CarQueue removeCar
+INFO: Car removed: ere
+Feb 01, 2024 11:29:00 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 34543
+Feb 01, 2024 11:29:01 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 2345234
+Feb 01, 2024 11:29:01 PM capstone.CarQueue removeCar
+INFO: Car removed: ere
+Feb 01, 2024 11:29:01 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 2345234
+Feb 01, 2024 11:29:02 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 23453
+Feb 01, 2024 11:29:03 PM capstone.CarQueue addCar
+INFO: Car added to the queue: erwtrere
+Feb 01, 2024 11:29:04 PM capstone.CarQueue removeCar
+INFO: Car removed: 3145
+Feb 01, 2024 11:29:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 23453
+Feb 01, 2024 11:29:05 PM capstone.CarQueue removeCar
+INFO: Car removed: 34543
+Feb 01, 2024 11:29:05 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: erwtrere
+Feb 01, 2024 11:29:06 PM capstone.CarQueue removeCar
+INFO: Car removed: 2345234
+Feb 01, 2024 11:29:09 PM capstone.CarQueue removeCar
+INFO: Car removed: 23453
+Feb 01, 2024 11:29:10 PM capstone.CarQueue removeCar
+INFO: Car removed: erwtrere
+Feb 01, 2024 11:29:15 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 444
+Feb 01, 2024 11:29:15 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 444
+Feb 01, 2024 11:29:17 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 33
+Feb 01, 2024 11:29:17 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 33
+Feb 01, 2024 11:29:18 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 33
+Feb 01, 2024 11:29:18 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 33
+Feb 01, 2024 11:29:20 PM capstone.CarQueue addCar
+INFO: Car added to the queue: eserw
+Feb 01, 2024 11:29:20 PM capstone.CarQueue removeCar
+INFO: Car removed: 444
+Feb 01, 2024 11:29:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: eserw
+Feb 01, 2024 11:29:22 PM capstone.CarQueue removeCar
+INFO: Car removed: 33
+Feb 01, 2024 11:29:23 PM capstone.CarQueue removeCar
+INFO: Car removed: 33
+Feb 01, 2024 11:29:25 PM capstone.CarQueue removeCar
+INFO: Car removed: eserw
+Feb 01, 2024 11:31:29 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 1
+Feb 01, 2024 11:31:29 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 1
+Feb 01, 2024 11:31:30 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 2
+Feb 01, 2024 11:31:30 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 2
+Feb 01, 2024 11:31:31 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 3
+Feb 01, 2024 11:31:31 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 3
+Feb 01, 2024 11:31:32 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 4
+Feb 01, 2024 11:31:33 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 5
+Feb 01, 2024 11:31:34 PM capstone.CarQueue removeCar
+INFO: Car removed: 1
+Feb 01, 2024 11:31:34 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 4
+Feb 01, 2024 11:31:35 PM capstone.CarQueue removeCar
+INFO: Car removed: 2
+Feb 01, 2024 11:31:35 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 5
+Feb 01, 2024 11:31:36 PM capstone.CarQueue removeCar
+INFO: Car removed: 3
+Feb 01, 2024 11:31:39 PM capstone.CarQueue removeCar
+INFO: Car removed: 4
+Feb 01, 2024 11:31:40 PM capstone.CarQueue removeCar
+INFO: Car removed: 5
+Feb 01, 2024 11:31:48 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 1111
+Feb 01, 2024 11:31:48 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 1111
+Feb 01, 2024 11:31:49 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 2
+Feb 01, 2024 11:31:49 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 2
+Feb 01, 2024 11:31:50 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 3
+Feb 01, 2024 11:31:50 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 3
+Feb 01, 2024 11:31:51 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 4
+Feb 01, 2024 11:31:52 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 5
+Feb 01, 2024 11:31:53 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 6
+Feb 01, 2024 11:31:53 PM capstone.CarQueue removeCar
+INFO: Car removed: 1111
+Feb 01, 2024 11:31:53 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 4
+Feb 01, 2024 11:31:54 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 7
+Feb 01, 2024 11:31:54 PM capstone.CarQueue removeCar
+INFO: Car removed: 2
+Feb 01, 2024 11:31:54 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 5
+Feb 01, 2024 11:31:55 PM capstone.CarQueue removeCar
+INFO: Car removed: 3
+Feb 01, 2024 11:31:55 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 6
+Feb 01, 2024 11:31:58 PM capstone.CarQueue removeCar
+INFO: Car removed: 4
+Feb 01, 2024 11:31:58 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 7
+Feb 01, 2024 11:31:59 PM capstone.CarQueue removeCar
+INFO: Car removed: 5
+Feb 01, 2024 11:32:00 PM capstone.CarQueue removeCar
+INFO: Car removed: 6
+Feb 01, 2024 11:32:03 PM capstone.CarQueue removeCar
+INFO: Car removed: 7
+Feb 01, 2024 11:36:27 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 01, 2024 11:36:27 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 01, 2024 11:36:27 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 01, 2024 11:36:29 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 12
+Feb 01, 2024 11:36:30 PM capstone.CarQueue addCar
+INFO: Car added to the queue: we
+Feb 01, 2024 11:36:31 PM capstone.CarQueue addCar
+INFO: Car added to the queue: sf
+Feb 01, 2024 11:36:32 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 01, 2024 11:36:32 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 01, 2024 11:36:32 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 01, 2024 11:36:32 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 01, 2024 11:36:32 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 01, 2024 11:36:32 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 01, 2024 11:36:32 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wer
+Feb 01, 2024 11:36:33 PM capstone.CarQueue addCar
+INFO: Car added to the queue: qe
+Feb 01, 2024 11:36:34 PM capstone.CarQueue addCar
+INFO: Car added to the queue: qew
+Feb 01, 2024 11:36:35 PM capstone.CarQueue addCar
+INFO: Car added to the queue: eew
+Feb 01, 2024 11:36:36 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wer
+Feb 01, 2024 11:36:37 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 01, 2024 11:36:37 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 01, 2024 11:36:37 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 01, 2024 11:36:37 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 01, 2024 11:36:37 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 01, 2024 11:36:37 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 01, 2024 11:36:37 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wer
+Feb 01, 2024 11:36:39 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wer
+Feb 01, 2024 11:36:40 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wefr
+Feb 01, 2024 11:36:41 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wef
+Feb 01, 2024 11:36:42 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 01, 2024 11:36:42 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 01, 2024 11:36:42 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 01, 2024 11:36:42 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 12
+Feb 01, 2024 11:36:42 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 01, 2024 11:36:42 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: we
+Feb 01, 2024 11:36:42 PM capstone.CarQueue addCar
+INFO: Car added to the queue: aesf
+Feb 01, 2024 11:36:47 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 01, 2024 11:36:47 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: sf
+Feb 01, 2024 11:36:47 PM capstone.CarQueue removeCar
+INFO: Car removed: 12
+Feb 01, 2024 11:36:47 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wer
+Feb 01, 2024 11:36:47 PM capstone.CarQueue removeCar
+INFO: Car removed: we
+Feb 01, 2024 11:36:47 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: qe
+Feb 01, 2024 11:36:52 PM capstone.CarQueue removeCar
+INFO: Car removed: sf
+Feb 01, 2024 11:36:52 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: qew
+Feb 01, 2024 11:36:52 PM capstone.CarQueue removeCar
+INFO: Car removed: wer
+Feb 01, 2024 11:36:52 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: eew
+Feb 01, 2024 11:36:52 PM capstone.CarQueue removeCar
+INFO: Car removed: qe
+Feb 01, 2024 11:36:52 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wer
+Feb 01, 2024 11:36:57 PM capstone.CarQueue removeCar
+INFO: Car removed: qew
+Feb 01, 2024 11:36:57 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wer
+Feb 01, 2024 11:36:57 PM capstone.CarQueue removeCar
+INFO: Car removed: eew
+Feb 01, 2024 11:36:57 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wer
+Feb 01, 2024 11:36:57 PM capstone.CarQueue removeCar
+INFO: Car removed: wer
+Feb 01, 2024 11:36:57 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wefr
+Feb 01, 2024 11:37:02 PM capstone.CarQueue removeCar
+INFO: Car removed: wer
+Feb 01, 2024 11:37:02 PM capstone.CarQueue removeCar
+INFO: Car removed: wer
+Feb 01, 2024 11:37:02 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wef
+Feb 01, 2024 11:37:02 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: aesf
+Feb 01, 2024 11:37:02 PM capstone.CarQueue removeCar
+INFO: Car removed: wefr
+Feb 01, 2024 11:37:07 PM capstone.CarQueue removeCar
+INFO: Car removed: wef
+Feb 01, 2024 11:37:07 PM capstone.CarQueue removeCar
+INFO: Car removed: aesf
+Feb 02, 2024 12:26:13 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 02, 2024 12:26:13 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 02, 2024 12:26:13 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 02, 2024 12:26:18 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 02, 2024 12:26:18 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 02, 2024 12:26:18 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 02, 2024 12:26:18 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 02, 2024 12:26:18 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 02, 2024 12:26:18 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 02, 2024 12:26:23 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 02, 2024 12:26:23 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 02, 2024 12:26:23 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 02, 2024 12:26:23 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 02, 2024 12:26:23 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 02, 2024 12:26:23 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 02, 2024 12:26:28 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 02, 2024 12:26:28 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 02, 2024 12:26:28 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 02, 2024 12:26:28 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 02, 2024 12:26:32 AM capstone.CarQueue addCar
+INFO: Car added to the queue: r
+Feb 02, 2024 12:26:32 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: r
+Feb 02, 2024 12:26:33 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 02, 2024 12:26:33 AM capstone.CarQueue addCar
+INFO: Car added to the queue: tr
+Feb 02, 2024 12:26:33 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: tr
+Feb 02, 2024 12:26:35 AM capstone.CarQueue addCar
+INFO: Car added to the queue: rytret
+Feb 02, 2024 12:26:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: rytret
+Feb 02, 2024 12:26:36 AM capstone.CarQueue addCar
+INFO: Car added to the queue: wert
+Feb 02, 2024 12:26:37 AM capstone.CarQueue addCar
+INFO: Car added to the queue: qrewt
+Feb 02, 2024 12:26:37 AM capstone.CarQueue removeCar
+INFO: Car removed: r
+Feb 02, 2024 12:26:37 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: wert
+Feb 02, 2024 12:26:38 AM capstone.CarQueue addCar
+INFO: Car added to the queue: qert
+Feb 02, 2024 12:26:38 AM capstone.CarQueue removeCar
+INFO: Car removed: tr
+Feb 02, 2024 12:26:38 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: qrewt
+Feb 02, 2024 12:26:40 AM capstone.CarQueue removeCar
+INFO: Car removed: rytret
+Feb 02, 2024 12:26:40 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: qert
+Feb 02, 2024 12:26:42 AM capstone.CarQueue removeCar
+INFO: Car removed: wert
+Feb 02, 2024 12:26:43 AM capstone.CarQueue removeCar
+INFO: Car removed: qrewt
+Feb 02, 2024 12:26:45 AM capstone.CarQueue removeCar
+INFO: Car removed: qert
+Feb 02, 2024 12:31:10 AM capstone.CarQueue addCar
+INFO: Car added to the queue: XYZ789
+Feb 02, 2024 12:33:57 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 02, 2024 12:33:57 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 02, 2024 12:33:57 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 02, 2024 12:33:57 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 02, 2024 12:33:57 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 02, 2024 12:33:57 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 02, 2024 12:33:57 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 02, 2024 12:33:57 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 02, 2024 12:33:57 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 02, 2024 12:33:57 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 02, 2024 12:33:57 AM capstone.CarQueue addCar
+INFO: Car added to the queue: XYZ789
+Feb 02, 2024 12:35:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 02, 2024 12:35:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 02, 2024 12:35:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 02, 2024 12:35:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 02, 2024 12:35:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 02, 2024 12:35:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 02, 2024 12:35:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 02, 2024 12:35:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 02, 2024 12:35:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 02, 2024 12:35:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 02, 2024 12:35:55 AM capstone.CarQueue addCar
+INFO: Car added to the queue: XYZ789
+Feb 02, 2024 12:50:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 02, 2024 12:50:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 02, 2024 12:50:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 02, 2024 12:50:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 02, 2024 12:50:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 02, 2024 12:50:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 02, 2024 12:50:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 02, 2024 12:50:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 02, 2024 12:50:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 02, 2024 12:50:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 02, 2024 12:50:16 AM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 02, 2024 12:53:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 02, 2024 12:53:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 02, 2024 12:53:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 02, 2024 12:53:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 02, 2024 12:53:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 02, 2024 12:53:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 02, 2024 12:53:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 02, 2024 12:53:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 02, 2024 12:53:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 02, 2024 12:53:16 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 02, 2024 12:53:30 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 02, 2024 12:53:30 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 02, 2024 12:53:30 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 02, 2024 12:53:30 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 02, 2024 12:53:30 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 02, 2024 12:53:30 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 02, 2024 12:53:30 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 02, 2024 12:53:30 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 02, 2024 12:53:30 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 02, 2024 12:53:30 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 02, 2024 12:53:30 AM capstone.CarQueue addCar
+INFO: Car added to the queue: XYZ789
+Feb 02, 2024 12:53:30 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: XYZ789
+Feb 02, 2024 12:57:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 02, 2024 12:57:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 02, 2024 12:57:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 02, 2024 12:57:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 02, 2024 12:57:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 02, 2024 12:57:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 02, 2024 12:57:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 02, 2024 12:57:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 02, 2024 12:57:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 02, 2024 12:57:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 02, 2024 12:57:35 AM capstone.CarQueue addCar
+INFO: Car added to the queue: AAA700
+Feb 02, 2024 12:57:35 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: AAA700
+Feb 02, 2024 1:03:50 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 02, 2024 1:03:50 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 02, 2024 1:03:50 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 02, 2024 1:03:55 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 02, 2024 1:03:55 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 02, 2024 1:03:55 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 02, 2024 1:03:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 02, 2024 1:03:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 02, 2024 1:03:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 02, 2024 2:01:40 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 02, 2024 2:01:40 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 02, 2024 2:01:40 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 02, 2024 2:01:45 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 02, 2024 2:01:45 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 02, 2024 2:01:45 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 02, 2024 2:01:45 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 02, 2024 2:01:45 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 02, 2024 2:01:45 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 02, 2024 2:01:50 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 02, 2024 2:01:50 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 02, 2024 2:01:50 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 02, 2024 2:01:50 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 02, 2024 2:01:50 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 02, 2024 2:01:50 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 02, 2024 2:01:55 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 02, 2024 2:01:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 02, 2024 2:01:55 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 02, 2024 2:01:55 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 02, 2024 2:02:00 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 02, 2024 2:02:01 AM capstone.CarQueue addCar
+INFO: Car added to the queue: rr
+Feb 02, 2024 2:02:01 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: rr
+Feb 02, 2024 2:02:02 AM capstone.CarQueue addCar
+INFO: Car added to the queue: 425
+Feb 02, 2024 2:02:02 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: 425
+Feb 02, 2024 2:02:03 AM capstone.CarQueue addCar
+INFO: Car added to the queue: wretqq
+Feb 02, 2024 2:02:03 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: wretqq
+Feb 02, 2024 2:02:04 AM capstone.CarQueue addCar
+INFO: Car added to the queue: 2343
+Feb 02, 2024 2:02:06 AM capstone.CarQueue addCar
+INFO: Car added to the queue: 4444
+Feb 02, 2024 2:02:06 AM capstone.CarQueue removeCar
+INFO: Car removed: rr
+Feb 02, 2024 2:02:06 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: 2343
+Feb 02, 2024 2:02:07 AM capstone.CarQueue addCar
+INFO: Car added to the queue: 454
+Feb 02, 2024 2:02:07 AM capstone.CarQueue removeCar
+INFO: Car removed: 425
+Feb 02, 2024 2:02:07 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: 4444
+Feb 02, 2024 2:02:08 AM capstone.CarQueue removeCar
+INFO: Car removed: wretqq
+Feb 02, 2024 2:02:08 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: 454
+Feb 02, 2024 2:02:11 AM capstone.CarQueue removeCar
+INFO: Car removed: 2343
+Feb 02, 2024 2:02:12 AM capstone.CarQueue removeCar
+INFO: Car removed: 4444
+Feb 02, 2024 2:02:13 AM capstone.CarQueue removeCar
+INFO: Car removed: 454
+Feb 02, 2024 2:03:45 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 02, 2024 2:03:45 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 02, 2024 2:03:45 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 02, 2024 2:03:47 AM capstone.CarQueue addCar
+INFO: Car added to the queue: ewf
+Feb 02, 2024 2:03:50 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 02, 2024 2:03:50 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 02, 2024 2:03:50 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 02, 2024 2:03:50 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 02, 2024 2:03:50 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 02, 2024 2:03:50 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 02, 2024 2:03:55 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 02, 2024 2:03:55 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 02, 2024 2:03:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 02, 2024 2:03:55 AM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 02, 2024 2:03:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 02, 2024 2:03:55 AM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 02, 2024 2:37:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 02, 2024 2:37:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 02, 2024 2:37:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 02, 2024 2:37:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 02, 2024 2:37:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 02, 2024 2:37:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 02, 2024 2:37:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 02, 2024 2:37:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 02, 2024 2:37:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 02, 2024 2:37:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 02, 2024 2:37:36 PM capstone.CarQueue addCar
+INFO: Car added to the queue: AAA700
+Feb 02, 2024 2:37:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: AAA700
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 02, 2024 2:38:12 PM capstone.CarQueue addCar
+INFO: Car added to the queue: AAA700
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: AAA700
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 02, 2024 2:38:12 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 02, 2024 2:38:12 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 4:54:30 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 4:54:31 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 4:54:31 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 4:54:36 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 08, 2024 4:54:36 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 08, 2024 4:54:36 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 08, 2024 4:54:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 4:54:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 4:54:36 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 4:54:41 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 08, 2024 4:54:41 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 08, 2024 4:54:41 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 08, 2024 4:54:41 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 4:54:41 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 4:54:41 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 4:54:46 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 08, 2024 4:54:46 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 08, 2024 4:54:46 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 4:54:46 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 08, 2024 4:54:51 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 08, 2024 4:54:55 PM capstone.CarQueue addCar
+INFO: Car added to the queue: jkkj
+Feb 08, 2024 4:54:55 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: jkkj
+Feb 08, 2024 4:55:00 PM capstone.CarQueue removeCar
+INFO: Car removed: jkkj
+Feb 08, 2024 4:55:04 PM capstone.CarQueue addCar
+INFO: Car added to the queue: lkl
+Feb 08, 2024 4:55:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: lkl
+Feb 08, 2024 4:55:05 PM capstone.CarQueue addCar
+INFO: Car added to the queue: qrew
+Feb 08, 2024 4:55:05 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: qrew
+Feb 08, 2024 4:55:06 PM capstone.CarQueue addCar
+INFO: Car added to the queue: e
+Feb 08, 2024 4:55:06 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: e
+Feb 08, 2024 4:55:07 PM capstone.CarQueue addCar
+INFO: Car added to the queue: we
+Feb 08, 2024 4:55:08 PM capstone.CarQueue addCar
+INFO: Car added to the queue: we
+Feb 08, 2024 4:55:09 PM capstone.CarQueue removeCar
+INFO: Car removed: lkl
+Feb 08, 2024 4:55:09 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: we
+Feb 08, 2024 4:55:09 PM capstone.CarQueue addCar
+INFO: Car added to the queue: ewr
+Feb 08, 2024 4:55:10 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wer
+Feb 08, 2024 4:55:10 PM capstone.CarQueue removeCar
+INFO: Car removed: qrew
+Feb 08, 2024 4:55:10 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: we
+Feb 08, 2024 4:55:11 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wer
+Feb 08, 2024 4:55:11 PM capstone.CarQueue removeCar
+INFO: Car removed: e
+Feb 08, 2024 4:55:11 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: ewr
+Feb 08, 2024 4:55:14 PM capstone.CarQueue removeCar
+INFO: Car removed: we
+Feb 08, 2024 4:55:14 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wer
+Feb 08, 2024 4:55:15 PM capstone.CarQueue removeCar
+INFO: Car removed: we
+Feb 08, 2024 4:55:15 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wer
+Feb 08, 2024 4:55:16 PM capstone.CarQueue removeCar
+INFO: Car removed: ewr
+Feb 08, 2024 4:55:19 PM capstone.CarQueue removeCar
+INFO: Car removed: wer
+Feb 08, 2024 4:55:20 PM capstone.CarQueue removeCar
+INFO: Car removed: wer
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 4:59:16 PM capstone.CarQueue addCar
+INFO: Car added to the queue: AAA700
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: AAA700
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 4:59:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 4:59:16 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:03:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 5:03:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 5:03:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 5:03:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 5:03:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 5:03:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 5:03:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 5:03:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 5:03:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 5:03:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 5:03:20 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:12:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 5:12:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 5:12:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 5:12:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 5:12:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 5:12:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 5:12:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 5:12:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 5:12:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 5:12:38 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 5:12:38 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:12:38 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:12:38 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:12:38 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:13:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 5:13:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 5:13:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 5:13:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 5:13:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 5:13:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 5:13:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 5:13:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 5:13:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 5:13:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 5:13:21 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:13:21 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:13:21 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:13:21 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 5:14:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 5:14:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 5:14:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 5:14:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 5:14:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 5:14:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 5:14:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 5:14:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 5:14:04 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 5:14:04 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:04 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:04 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:04 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 5:14:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 5:14:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 5:14:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 5:14:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 5:14:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 5:14:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 5:14:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 5:14:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 5:14:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 5:14:16 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:16 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:16 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:16 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 5:14:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 5:14:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 5:14:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 5:14:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 5:14:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 5:14:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 5:14:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 5:14:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 5:14:21 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 5:14:21 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:21 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:21 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:21 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 5:14:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 5:14:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 5:14:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 5:14:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 5:14:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 5:14:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 5:14:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 5:14:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 5:14:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 5:14:59 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:59 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:59 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:59 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:59 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:14:59 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:15:10 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 5:15:10 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 5:15:10 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 5:15:10 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 5:15:10 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 5:15:10 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 5:15:10 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 5:15:10 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 5:15:10 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 5:15:10 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 5:15:10 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:15:10 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:15:10 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:15:10 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:15:10 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:15:10 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:15:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 5:15:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 5:15:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 5:15:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 5:15:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 5:15:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 5:15:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 5:15:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 5:15:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 5:15:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 5:15:24 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:15:24 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:15:24 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:15:24 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:15:24 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:15:24 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 777AAA
+Feb 08, 2024 5:16:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 5:16:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 5:16:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 5:16:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 5:16:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 5:16:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 5:16:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 5:16:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 5:16:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 5:16:56 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 8:39:43 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 8:39:43 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 8:39:43 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 8:39:48 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 08, 2024 8:39:48 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 08, 2024 8:39:48 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 08, 2024 8:39:48 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 8:39:48 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 8:39:48 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 8:39:53 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 08, 2024 8:39:53 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 08, 2024 8:39:53 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 08, 2024 8:39:53 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 8:39:53 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 8:39:53 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 8:39:58 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 08, 2024 8:39:58 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 08, 2024 8:39:58 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 08, 2024 8:39:58 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 8:40:03 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 08, 2024 8:40:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 8:40:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 8:40:24 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 8:40:29 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 08, 2024 8:40:29 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 08, 2024 8:40:29 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 08, 2024 8:40:29 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 8:40:29 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 8:40:29 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 8:40:34 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 08, 2024 8:40:34 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 08, 2024 8:40:34 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 8:40:34 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 08, 2024 8:40:34 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 8:40:34 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 08, 2024 8:40:39 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 08, 2024 8:40:39 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 08, 2024 8:40:39 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 08, 2024 8:40:39 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 08, 2024 8:40:44 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 08, 2024 9:05:18 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 9:05:18 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 9:05:18 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 10:05:09 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 08, 2024 10:05:09 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 08, 2024 10:05:09 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 08, 2024 10:05:13 PM capstone.CarQueue addCar
+INFO: Car added to the queue: ewrwq
+Feb 08, 2024 10:05:14 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 08, 2024 10:05:14 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 08, 2024 10:05:14 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 08, 2024 10:05:14 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 08, 2024 10:05:14 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 08, 2024 10:05:14 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 08, 2024 10:05:19 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 08, 2024 10:05:19 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 08, 2024 10:05:19 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 08, 2024 10:05:19 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 08, 2024 10:05:19 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 08, 2024 10:05:19 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 09, 2024 8:24:44 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 09, 2024 8:24:44 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 09, 2024 8:24:44 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 09, 2024 8:24:49 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 09, 2024 8:24:49 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 09, 2024 8:24:49 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 09, 2024 8:24:49 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 09, 2024 8:24:49 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 09, 2024 8:24:49 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 09, 2024 8:24:54 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 09, 2024 8:24:54 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 09, 2024 8:24:54 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 09, 2024 8:24:54 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 09, 2024 8:24:54 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 09, 2024 8:24:54 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 09, 2024 8:24:59 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 09, 2024 8:24:59 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 09, 2024 8:24:59 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 09, 2024 8:24:59 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 09, 2024 8:25:04 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 09, 2024 8:25:06 PM capstone.CarQueue addCar
+INFO: Car added to the queue: AAA777
+Feb 09, 2024 8:25:06 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: AAA777
+Feb 09, 2024 8:25:11 PM capstone.CarQueue removeCar
+INFO: Car removed: AAA777
+Feb 09, 2024 11:21:15 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 09, 2024 11:21:15 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 09, 2024 11:21:15 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 09, 2024 11:21:20 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 09, 2024 11:21:20 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 09, 2024 11:21:20 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 09, 2024 11:21:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 09, 2024 11:21:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 09, 2024 11:21:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 09, 2024 11:21:25 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 09, 2024 11:21:25 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 09, 2024 11:21:25 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 09, 2024 11:21:25 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 09, 2024 11:21:25 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 09, 2024 11:21:25 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 09, 2024 11:21:30 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 09, 2024 11:21:30 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 09, 2024 11:21:30 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 09, 2024 11:21:30 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 09, 2024 11:21:35 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 09, 2024 11:22:13 PM capstone.CarQueue addCar
+INFO: Car added to the queue: ijij
+Feb 09, 2024 11:22:13 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: ijij
+Feb 09, 2024 11:22:14 PM capstone.CarQueue addCar
+INFO: Car added to the queue: jji
+Feb 09, 2024 11:22:14 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: jji
+Feb 09, 2024 11:22:16 PM capstone.CarQueue addCar
+INFO: Car added to the queue: hhuh
+Feb 09, 2024 11:22:16 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: hhuh
+Feb 09, 2024 11:22:18 PM capstone.CarQueue removeCar
+INFO: Car removed: ijij
+Feb 09, 2024 11:22:18 PM capstone.CarQueue addCar
+INFO: Car added to the queue: hb
+Feb 09, 2024 11:22:18 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: hb
+Feb 09, 2024 11:22:19 PM capstone.CarQueue removeCar
+INFO: Car removed: jji
+Feb 09, 2024 11:22:20 PM capstone.CarQueue addCar
+INFO: Car added to the queue: hhu
+Feb 09, 2024 11:22:20 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: hhu
+Feb 09, 2024 11:22:21 PM capstone.CarQueue removeCar
+INFO: Car removed: hhuh
+Feb 09, 2024 11:22:23 PM capstone.CarQueue removeCar
+INFO: Car removed: hb
+Feb 09, 2024 11:22:25 PM capstone.CarQueue removeCar
+INFO: Car removed: hhu
+Feb 09, 2024 11:22:27 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 652
+Feb 09, 2024 11:22:27 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 652
+Feb 09, 2024 11:22:28 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 324
+Feb 09, 2024 11:22:28 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 324
+Feb 09, 2024 11:22:29 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 234
+Feb 09, 2024 11:22:29 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 234
+Feb 09, 2024 11:22:29 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 234
+Feb 09, 2024 11:22:30 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 234
+Feb 09, 2024 11:22:32 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 234
+Feb 09, 2024 11:22:32 PM capstone.CarQueue removeCar
+INFO: Car removed: 652
+Feb 09, 2024 11:22:32 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 234
+Feb 09, 2024 11:22:33 PM capstone.CarQueue removeCar
+INFO: Car removed: 324
+Feb 09, 2024 11:22:33 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 234
+Feb 09, 2024 11:22:34 PM capstone.CarQueue removeCar
+INFO: Car removed: 234
+Feb 09, 2024 11:22:34 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 234
+Feb 09, 2024 11:22:37 PM capstone.CarQueue removeCar
+INFO: Car removed: 234
+Feb 09, 2024 11:22:38 PM capstone.CarQueue removeCar
+INFO: Car removed: 234
+Feb 09, 2024 11:22:39 PM capstone.CarQueue removeCar
+INFO: Car removed: 234
+Feb 09, 2024 11:26:08 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 1
+Feb 09, 2024 11:26:08 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 2
+Feb 09, 2024 11:26:08 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 3
+Feb 09, 2024 11:26:10 PM capstone.CarQueue addCar
+INFO: Car added to the queue: 3re2
+Feb 09, 2024 11:26:11 PM capstone.CarQueue addCar
+INFO: Car added to the queue: weqr
+Feb 09, 2024 11:26:12 PM capstone.CarQueue addCar
+INFO: Car added to the queue: wqer
+Feb 09, 2024 11:26:13 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 1
+Feb 09, 2024 11:26:13 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 2
+Feb 09, 2024 11:26:13 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 3
+Feb 09, 2024 11:26:13 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 4
+Feb 09, 2024 11:26:13 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 5
+Feb 09, 2024 11:26:13 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 6
+Feb 09, 2024 11:26:18 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 5
+Feb 09, 2024 11:26:18 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 6
+Feb 09, 2024 11:26:18 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 7
+Feb 09, 2024 11:26:18 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 4
+Feb 09, 2024 11:26:18 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 8
+Feb 09, 2024 11:26:18 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 9
+Feb 09, 2024 11:26:23 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 7
+Feb 09, 2024 11:26:23 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: Car 10
+Feb 09, 2024 11:26:23 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 9
+Feb 09, 2024 11:26:23 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 8
+Feb 09, 2024 11:26:23 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: 3re2
+Feb 09, 2024 11:26:23 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: weqr
+Feb 09, 2024 11:26:28 PM capstone.CarQueue removeCar
+INFO: Car removed: Car 10
+Feb 09, 2024 11:26:28 PM capstone.CarQueue getNextCar
+INFO: Car retrieved: wqer
+Feb 09, 2024 11:26:28 PM capstone.CarQueue removeCar
+INFO: Car removed: 3re2
+Feb 09, 2024 11:26:28 PM capstone.CarQueue removeCar
+INFO: Car removed: weqr
