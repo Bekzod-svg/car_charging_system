@@ -20,8 +20,6 @@ This project simulates an electric vehicle charging station system, designed to 
 - **addCar(Car car):** Adds a car to the queue, preparing it for charging.
 - **getNextCar():** Retrieves and removes the next car in the queue to be charged.
 - **getQueueSize():** Returns the current number of cars waiting in the queue.
-## ChargingExceptions.java
-- Defines various exceptions like QueueFullException, ChargingFailureException, etc., to handle specific error scenarios related to the charging process.
 ## ChargingStation.java
 - **startChargingProcess():** Initiates the charging process for cars. It may loop through the available charging slots and assign cars from the queue to each slot for charging.
 - **chargeCar(int slot):** Handles the charging logic for a single car at a given charging slot. This includes updating the GUI, managing the energy source, simulating the charging duration, and logging the charging completion.
